@@ -1,7 +1,5 @@
-AUCC_AXION_FRAMEWORK
+AUCC AXION FRAMEWORK
 ====================
-
-[D0Not5top](https://www.vulnhub.com/entry/d0not5top-12,191/)
 
 ## Installation
 
